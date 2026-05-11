@@ -2,8 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.para,
-.small-para {
+.para {
   color: hsl(0, 0%, 0%);
   font-size: 22px;
   font-weight: 800;
@@ -33,7 +32,7 @@ body {
   font-weight: 100;
 }
 
-.text.child {
+.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
